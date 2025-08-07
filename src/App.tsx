@@ -55,7 +55,9 @@ function App() {
           {/* App Store Button */}
           <div className="mb-16">
             <a 
-              href="#" 
+              href="https://apps.apple.com/kz/app/copperzync-coin-identifier/id6749579071" 
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center space-x-4 bg-gradient-to-r from-[#F8B500] to-[#F5C242] text-white px-12 py-6 rounded-2xl text-xl font-semibold shadow-2xl hover:shadow-3xl transform hover:scale-105 transition-all duration-300 hover:from-[#F5C242] hover:to-[#F8B500] group"
             >
               <Download className="w-6 h-6 group-hover:animate-pulse" />
